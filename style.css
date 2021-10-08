@@ -1,0 +1,47 @@
+.gallery {
+  margin: 0;
+  padding: 0;
+}
+
+.text {
+  color: black;
+}
+
+.splash-screen {
+  background-image: url("img/comp.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 900px;
+}
+
+.btn {
+  background-color: rgb(16, 201, 195);
+  color: white;
+}
+
+.gallery {
+  margin: 0;
+  padding: 0;
+}
+
+.backgrnd{
+  background-color: rgb(245, 245, 245);
+}
+
+.serv {
+  text-align: center;
+}
+
+.contact {
+  font-size: 12px;
+}
+
+.blu {
+  background-color: Turquoise;
+  color: white;
+  font-size: 30px;
+}
+
+.text6{
+  font-size: 15px;
+}
